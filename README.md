@@ -1,5 +1,5 @@
 # 50projectsonHTML_CSS_JS
-Welcome to the HTML, CSS, and JavaScript Playground where I practiced my skills as an initial web developer learning from.
+Welcome to the HTML, CSS, and JavaScript Playground where I practiced my skills as an initial web developer learning from https://github.com/bradtraversy/50projects50days.
 
 This repository is a treasure trove of 50 diverse mini projects showcasing the power and versatility of web development technologies.  Whether you're a beginner looking to sharpen your skills or an experienced developer seeking inspiration, you'll find something here to ignite your creativity.
 
