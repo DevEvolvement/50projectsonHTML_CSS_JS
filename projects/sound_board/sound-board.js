@@ -9,16 +9,16 @@ sounds.forEach(sound => {
     btn.addEventListener('click', () => {
         stopSongs()
 
-        document.getElementByID(sound).play()
+        document.getElementById(sound).play()
     })
 
-    document.getElementByID('buttons').appendChild(btn)
+    document.getElementById('buttons').appendChild(btn)
 })
     
     
 function stopSongs() {
     sounds.forEach(sound => {
-        const song = document.getElementByID(sound)
+        const song = document.getElementById(sound)
 
         song.pause()
         song.currentTime = 0;
