@@ -1,12 +1,16 @@
 * {
     box-sizing: border-box;
+
 }
 
 body {
-    background-color:#E5D4FF;
+    background-image: url('https://t3.ftcdn.net/jpg/02/61/11/02/360_F_261110226_MY2JyF9P2Bh6lgFAlj5rUZjg2BLabM8n.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-h1 {
- font-size: 2rem;
+h3 {
  font-family: 'Times New Roman', Times, serif;
+ width: 100%;
+ margin: auto;
 }
